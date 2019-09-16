@@ -9,6 +9,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>spring-cloud-alibaba-provider-7001</module>
+    <module>spring-cloud-alibaba-consumer</module>
   </modules>
   <packaging>pom</packaging>
 
