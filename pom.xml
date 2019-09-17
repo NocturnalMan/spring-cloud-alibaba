@@ -12,6 +12,7 @@
     <module>spring-cloud-alibaba-provider-7002</module>
     <module>spring-cloud-alibaba-consumer</module>
     <module>spring-cloud-alibaba-consumer-feign</module>
+    <module>spring-cloud-alibaba-gateway</module>
   </modules>
   <packaging>pom</packaging>
 
