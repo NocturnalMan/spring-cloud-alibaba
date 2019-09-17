@@ -1,10 +1,9 @@
 server:
   port: 80
 
-
 spring:
   application:
-    name: cloud-consumer
+    name: cloud-consumer-feign
   cloud:
     nacos:
       discovery:
